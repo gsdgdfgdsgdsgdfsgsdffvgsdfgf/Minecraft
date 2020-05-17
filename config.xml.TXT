@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.phonegap.examplehttps://charles2060lab.wixsite.com/website"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>PhoneGap Example</name>
+
+  <description>
+      a simple minecraft game
+  </description>
+
+  <author href="https://charles2060lab.wixsite.com/website" email="charles2060lab@gmail.com">
+      charles
+  </author>
+
+  <icon src="icon.png" />
+
+</widget>
